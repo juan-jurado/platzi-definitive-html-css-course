@@ -1,0 +1,14 @@
+p {
+    color: blueviolet;
+    font-size: 50px;
+}
+
+/* class */
+.PrincipalTitle {
+    color: chartreuse;
+}
+
+/* ID */
+#titulo2 {
+    color: brown;
+}
